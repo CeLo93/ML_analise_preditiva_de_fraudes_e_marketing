@@ -50,7 +50,5 @@ Contribuições, sugestões e relatórios de problemas são bem-vindos! Se você
 
 ---
 
-*Lembre-se de atualizar os placeholders ("link-para-licenca", etc.) com informações reais antes de utilizar este README em seu repositório.*
-
 
 
