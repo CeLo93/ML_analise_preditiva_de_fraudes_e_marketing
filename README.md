@@ -47,8 +47,7 @@ Contribuições, sugestões e relatórios de problemas são bem-vindos! Se você
 
 ## Licença
 
-Este projeto está licenciado sob os termos da [Licença XYZ](link-para-licenca). Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
+Ainda não
 ---
 
 *Lembre-se de atualizar os placeholders ("link-para-licenca", etc.) com informações reais antes de utilizar este README em seu repositório.*
