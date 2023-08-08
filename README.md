@@ -46,8 +46,8 @@ O coração dessa solução é a implementação de modelos de predição de Mac
 Contribuições, sugestões e relatórios de problemas são bem-vindos! Se você identificar algum problema ou tiver ideias para melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Licença
+...
 
-Ainda não
 ---
 
 *Lembre-se de atualizar os placeholders ("link-para-licenca", etc.) com informações reais antes de utilizar este README em seu repositório.*
