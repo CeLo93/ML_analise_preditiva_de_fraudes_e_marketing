@@ -47,8 +47,3 @@ Contribuições, sugestões e relatórios de problemas são bem-vindos! Se você
 
 ## Licença
 ...
-
----
-
-
-
