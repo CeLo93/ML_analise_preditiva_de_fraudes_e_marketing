@@ -1,4 +1,5 @@
 # Solução em AWS para Fluxo de Dados em Tempo Real, Armazenamento e Análise de ML
+![fluxogramaHier](https://github.com/CeLo93/ML_analise_preditiva_de_fraudes_e_marketing/assets/92175791/62c63da7-ba87-468a-bea1-717e7ebc9926)
 
 Este repositório apresenta uma solução robusta desenvolvida na Amazon Web Services (AWS) para abordar os desafios de receber dados em tempo real, armazenar informações de forma eficiente e aplicar análises avançadas de Machine Learning (ML). Essa solução foi concebida para atender às demandas específicas de um cliente no Setor Financeiro, onde a implantação de um novo aplicativo de dados em produção é o foco principal. A solução inclui a utilização de modelos de predição de ML para detecção de fraudes e segmentação de clientes visando campanhas de marketing direcionadas.
 
