@@ -27,7 +27,7 @@ O coração dessa solução é a implementação de modelos de predição de Mac
 2. **Segmentação de Clientes**: Outro modelo será desenvolvido para segmentar os clientes com base em seu comportamento de compra e preferências. Essa segmentação ajudará a personalizar as campanhas de marketing, aumentando a eficácia e o engajamento.
 
 ## Features:
-1. *Adição de um gerador de valor de transação anômalo. Como quero simular esses dados de transações, adiciono um valor aleatório de transação, como se fosse uma anomalia. Esse valor tem uma chance de 0.5% de ser chamado para valor_transacao. Ou seja, adicionei uma implementação que a cada dado do cliente gerado, tenha essa probabilidade de 0.5% de  ter uma transação maior, no intervalo de 4k ~ 15k.*
+1. *Adição de um gerador de valor de transação anômalo. Como quero simular esses dados de transações, adiciono um valor aleatório de transação, como se fosse uma anomalia. Esse valor tem uma chance de 0.5% de ser chamado para valor_transacao. Ou seja, adicionei uma implementação que a cada dado do cliente gerado, tenha essa probabilidade de 0.5% de  ter uma transação maior, no intervalo de 1k ~ 4k.*
 
 ## Instruções para Uso
 
