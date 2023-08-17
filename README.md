@@ -3,6 +3,10 @@
 
 Este repositório apresenta uma solução robusta desenvolvida na Amazon Web Services (AWS) para abordar os desafios de receber dados em tempo real, armazenar informações de forma eficiente e aplicar análises avançadas de Machine Learning (ML). Essa solução foi concebida para atender às demandas específicas de um cliente no Setor Financeiro, onde a implantação de um novo aplicativo de dados em produção é o foco principal. A solução inclui a utilização de modelos de predição de ML para detecção de fraudes e segmentação de clientes visando campanhas de marketing direcionadas.
 
+## Link do vídeo no Youtube
+<a href="https://www.youtube.com/watch?v=e5p3nEi-YYo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+
 ## Sobre o Cenário
 
 Neste contexto, nosso cliente é uma grande empresa do Setor Financeiro que busca lançar um novo aplicativo de dados em produção. A sua tarefa é oferecer uma Solução Técnica que satisfaça os requisitos do cliente e se alinhe à sua arquitetura. O projeto demanda a aplicação de modelos de ciência de dados para identificar possíveis fraudes, bem como segmentar clientes em tempo real para fins de campanhas de marketing.
